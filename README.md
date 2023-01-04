@@ -1,6 +1,8 @@
 # The Making of Cher’s Closet: Using AC-GANs to Generate User-Specified Clothes
 Denise Danielle Tamesis, Austin DeStefanis, and Hannah Hiraki
 
+[Click here to watch a Teaser Demonstration!](https://drive.google.com/file/d/1q1PfWnh-pkUHKohsBw8BIHPXBjJxtjNo/view?usp=share_link)
+
 <img src="images/ProjectPoster.png">
 
 ## Introduction
