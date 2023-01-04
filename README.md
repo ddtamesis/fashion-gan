@@ -1,6 +1,8 @@
 # The Making of Cher’s Closet: Using AC-GANs to Generate User-Specified Clothes
 Denise Danielle Tamesis, Austin DeStefanis, and Hannah Hiraki
 
+<img src="images/ProjectPoster.png">
+
 ## Introduction
 
 Inspired by Cher’s closet in the classic 1995 movie, *Clueless*, which picked pieces of an outfit from a wardrobe with the click of a button, we hoped to follow in its footsteps and create a project that could generate specified articles of clothing based on a given database “wardrobe” to ensure that users looked their absolute best strutting around their high school hallways like Cher. To implement this model, we were influenced by a paper titled “Inspirational Adversarial Image Generation” (Roziere, 2021) to utilize Generative Adversarial Networks (GANs) for this task. 
